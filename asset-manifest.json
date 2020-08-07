@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Chenky100/fruitshop/static/css/main.121c6396.chunk.css",
-    "main.js": "/Chenky100/fruitshop/static/js/main.f7eb6d15.chunk.js",
-    "main.js.map": "/Chenky100/fruitshop/static/js/main.f7eb6d15.chunk.js.map",
-    "runtime-main.js": "/Chenky100/fruitshop/static/js/runtime-main.4557e3e6.js",
-    "runtime-main.js.map": "/Chenky100/fruitshop/static/js/runtime-main.4557e3e6.js.map",
-    "static/js/2.3cbe231d.chunk.js": "/Chenky100/fruitshop/static/js/2.3cbe231d.chunk.js",
-    "static/js/2.3cbe231d.chunk.js.map": "/Chenky100/fruitshop/static/js/2.3cbe231d.chunk.js.map",
-    "index.html": "/Chenky100/fruitshop/index.html",
-    "precache-manifest.9e1c8c4aebd1f9c6f51133d3067e834c.js": "/Chenky100/fruitshop/precache-manifest.9e1c8c4aebd1f9c6f51133d3067e834c.js",
-    "service-worker.js": "/Chenky100/fruitshop/service-worker.js",
-    "static/css/main.121c6396.chunk.css.map": "/Chenky100/fruitshop/static/css/main.121c6396.chunk.css.map",
-    "static/js/2.3cbe231d.chunk.js.LICENSE.txt": "/Chenky100/fruitshop/static/js/2.3cbe231d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Chenky100/fruitshop/static/media/logo.5d5d9eef.svg"
+    "main.css": "/fruitshop/static/css/main.121c6396.chunk.css",
+    "main.js": "/fruitshop/static/js/main.1573e3e2.chunk.js",
+    "main.js.map": "/fruitshop/static/js/main.1573e3e2.chunk.js.map",
+    "runtime-main.js": "/fruitshop/static/js/runtime-main.246942a9.js",
+    "runtime-main.js.map": "/fruitshop/static/js/runtime-main.246942a9.js.map",
+    "static/js/2.3cbe231d.chunk.js": "/fruitshop/static/js/2.3cbe231d.chunk.js",
+    "static/js/2.3cbe231d.chunk.js.map": "/fruitshop/static/js/2.3cbe231d.chunk.js.map",
+    "index.html": "/fruitshop/index.html",
+    "precache-manifest.7c4531465af09c6c70bc1791a985e3f5.js": "/fruitshop/precache-manifest.7c4531465af09c6c70bc1791a985e3f5.js",
+    "service-worker.js": "/fruitshop/service-worker.js",
+    "static/css/main.121c6396.chunk.css.map": "/fruitshop/static/css/main.121c6396.chunk.css.map",
+    "static/js/2.3cbe231d.chunk.js.LICENSE.txt": "/fruitshop/static/js/2.3cbe231d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fruitshop/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4557e3e6.js",
+    "static/js/runtime-main.246942a9.js",
     "static/js/2.3cbe231d.chunk.js",
     "static/css/main.121c6396.chunk.css",
-    "static/js/main.f7eb6d15.chunk.js"
+    "static/js/main.1573e3e2.chunk.js"
   ]
 }
